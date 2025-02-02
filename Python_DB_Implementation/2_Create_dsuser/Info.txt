@@ -1,0 +1,12 @@
+Run this script to create dsuser user for mysql if needed otherwise ignore
+
+
+To run Bash Script
+
+sudo chmod 777 Create_User.sh
+
+
+
+run script with sudo
+
+sudo ./Create_User.sh
